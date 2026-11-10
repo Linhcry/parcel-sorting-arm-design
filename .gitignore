@@ -1,4 +1,8 @@
-*.log
-~$*
-__pycache__/
-.tmp/
+*.STEP
+*.step
+*.stp
+*.SLDPRT
+*.SLDASM
+*.sldprt
+*.sldasm
+*.zip
